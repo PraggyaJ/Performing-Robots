@@ -10,6 +10,7 @@ The theatrical aspects of the robot’s performance
 - Behaviour (the robot’s movement and actions including its interaction with its environment and other ‘actors’)
 - Context (the performance context of the robot including aspects of theatrical mise-en-scene such as setting, props and lighting)
 
+![](images/pre.png)
 Robots need to evoke emotions as performer
 
 
