@@ -7,3 +7,6 @@ The main features of the smaller robot are:
 - attachable arms (double-sided tape/magnets)
 - empty container/hole to contain things
 - some 'components' of it made of foam
+
+Apperance:
+
