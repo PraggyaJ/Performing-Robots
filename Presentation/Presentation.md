@@ -11,6 +11,7 @@ The theatrical aspects of the robot’s performance
 - Context (the performance context of the robot including aspects of theatrical mise-en-scene such as setting, props and lighting)
 
 ![](images/pre.png)
-Robots need to evoke emotions as performer
+
+# Robots need to evoke emotions as performer
 
 
