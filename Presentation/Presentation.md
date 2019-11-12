@@ -1,8 +1,8 @@
-Performing robots ->
-A performer or Props in performance
+# Performing robots ->
+## A performer or Props in performance
 
-Performing robots ->
-Humans performing with the help of ‘robots’(Robots involved in plot) or Robots performing on their own
+# Performing robots ->
+## Humans performing with the help of ‘robots’(Robots involved in plot) or Robots performing on their own
 
 Performer vs. Prop
 The theatrical aspects of the robot’s performance
