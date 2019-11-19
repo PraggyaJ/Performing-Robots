@@ -9,4 +9,4 @@ The main features of the smaller robot are:
 - some 'components' of it made of foam
 
 Apperance Plans:
-
+![](images/cardball.jpg)
