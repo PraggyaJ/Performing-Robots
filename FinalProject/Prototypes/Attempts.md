@@ -14,3 +14,15 @@ Apperance Plans:
 
 ![](images/cardball.jpg)
 ![](images/bay.jpeg)
+
+Building: 
+
+![](images/begin.JPG)
+![](images/1.JPG)
+![](images/2.JPG)
+![](images/final_outside.JPG)
+
+Servos:
+![](images/servo.JPG)
+![](images/connections.JPG)
+![](images/servo2.JPG)
