@@ -8,21 +8,12 @@ The main features of the smaller robot are:
 - empty container/hole to contain things
 - some 'components' of it made of foam
 
-Apperance Plans:
+## Apperance Plans:
+- cute appearance
+- attachable arms (double-sided tape/magnets)
+- empty container/hole to contain things
 
 
 
-![](images/cardball.jpg)
 ![](images/bay.jpeg)
-
-Building: 
-
-![](images/begin.JPG)
-![](images/1.JPG)
-![](images/2.JPG)
-![](images/final_outside.JPG)
-
-Servos:
-![](images/servo.JPG)
-![](images/connections.JPG)
-![](images/servo2.JPG)
+![](images/cardball.jpg)
