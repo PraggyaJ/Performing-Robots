@@ -8,9 +8,9 @@
 
 [Prototypes](PraggyaJ/Performing-Robots/FinalProject/Prototypes/Attempts.md)  
 
+### Overall project concept and description
+[Inspirations, Ideas and Concepts](https://github.com/PraggyaJ/Performing-Robots/blob/master/FinalProject/Ideation/inspirations%26ideas%26concepts.md)
 ### System diagram of the hardware
-
-
 ### List of important parts (don’t include wires, resistors, etc.)
 ### Pictures of the electronics
 ### Code (with good comments, good variable names, proper indentation, etc.)
