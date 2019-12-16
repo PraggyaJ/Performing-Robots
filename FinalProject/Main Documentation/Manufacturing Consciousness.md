@@ -6,7 +6,4 @@
 **Link to performance video:**
 ['Manufacturing Consciousness' Video](https://drive.google.com/file/d/1gbxmSE6PLL_eIsrFjue3BnJgBO-sdiqA/view?usp=sharing)
 
-## This page: Lectures
-
-
 [Prototypes](PraggyaJ/Performing-Robots/FinalProject/Prototypes/Attempts.md)  
