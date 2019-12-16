@@ -36,7 +36,16 @@ Servos inside body:
 [Code for the small robot](https://github.com/PraggyaJ/Performing-Robots/tree/master/FinalProject/Code(robot_being_built))
 
 ### Discuss 3-5 problems you ran into and how you resolved them or worked around them
-#### Attachable hands
+#### Attachable hands:
+The initial hands that I built used one magnet and hence, while they stuck to the servo, they did move as the weight of the hands were stronger than the slippery magnets.
+Intial hands:
+![](images/oldhands.jpg)
+![](images/oldhand.jpg)
+Finalhands:
+![](images/newhand.jpg)
+
+
+
 #### Damaged eye Neopixel ring
 #### Coding for a Neopixel Jewel
 #### Performance details
