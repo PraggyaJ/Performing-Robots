@@ -1,6 +1,5 @@
 The initial prototyped model from [protoypes](https://github.com/PraggyaJ/Performing-Robots/blob/master/FinalProject/Prototypes/Attempts.md) had all the right aspects but not the right features. So, I decided to alter the designs. I started building from scratch trying to mimick a balloon shaped body to make it more rounder and hence, cuter.  
-
-### Cardboard Body Structure
+### Face Neopixels
 ![](images/pix0.JPG)
 
 ![](images/pix1.JPG)
@@ -12,6 +11,23 @@ The initial prototyped model from [protoypes](https://github.com/PraggyaJ/Perfor
 ![](images/pix4.JPG)
 
 ![](images/pix5.JPG)
+
+### Cardboard Body Structure
+![](images/1card.JPG)
+
+![](images/2card.JPG)
+
+![](images/3card.JPG)
+
+![](images/4card.JPG)
+
+![](images/5card.JPG)
+
+![](images/6card.JPG)
+
+![](images/7card.JPG)
+
+![](images/8card.JPG)
 
 
 ### Neopixel Ring
