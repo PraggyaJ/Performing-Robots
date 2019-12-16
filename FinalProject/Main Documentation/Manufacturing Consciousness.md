@@ -21,11 +21,20 @@
  - 1 16-LED Neopixel Ring
  - 2 Neopixel jewels
  - 1 powerbank
-### Pictures of the electronics
-![](images/face_hard.jpg)
+### Pictures of the electronics and props
+Bluetooth breadeboarded:
+![](images/blue.jpg)
+Intial neopixels on face:
+![](images/face_new.jpg)
+Neopixels on face after damaging neopixel ring and making a new one:
+![](images/face_old.jpg)
+Servos inside body:
 ![](images/servo_hard.jpg)
+
+
 ### Code (with good comments, good variable names, proper indentation, etc.)
 [Code for the small robot](https://github.com/PraggyaJ/Performing-Robots/tree/master/FinalProject/Code(robot_being_built))
+
 ### Discuss 3-5 problems you ran into and how you resolved them or worked around them
 #### Attachable hands
 #### Damaged eye Neopixel ring
