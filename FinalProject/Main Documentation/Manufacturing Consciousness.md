@@ -25,9 +25,9 @@
 Bluetooth breadeboarded:
 ![](images/blue.jpg)
 Intial neopixels on face:
-![](images/face_new.jpg)
-Neopixels on face after damaging neopixel ring and making a new one:
 ![](images/face_old.jpg)
+Neopixels on face after damaging neopixel ring and making a new one:
+![](images/face_hard.jpg)
 Servos inside body:
 ![](images/servo_hard.jpg)
 
