@@ -1,4 +1,4 @@
-The initial prototyped model had all the right aspects but not the right features. So, I decided to alter the designs. I started building from scratch trying to mimick a balloon shaped body to make it more rounder and hence, cuter.  
+The initial prototyped model from [protoypes](https://github.com/PraggyaJ/Performing-Robots/blob/master/FinalProject/Prototypes/Attempts.md) had all the right aspects but not the right features. So, I decided to alter the designs. I started building from scratch trying to mimick a balloon shaped body to make it more rounder and hence, cuter.  
 
 ### Cardboard Body Structure
 ![](images/1card.JPG)
