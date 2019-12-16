@@ -7,21 +7,21 @@ The initial prototyped model had all the right aspects but not the right feature
 
 ![](images/n3.JPG)
 
-![](images/n4.jpg)
+![](images/n4.JPG)
 
-![](images/n5.jpg)
+![](images/n5.JPG)
 
 ### Conveyor Belt
 
 The conveyor belt was made out of sturdy cardboard.
 
 
-![](images/con1.jpg)
+![](images/con1.JPG)
 
 From the side:
 
-![](images/con2.jpg)
+![](images/con2.JPG)
 
 Final look:
-![](images/con3.jpg)
+![](images/con3.JPG)
 
