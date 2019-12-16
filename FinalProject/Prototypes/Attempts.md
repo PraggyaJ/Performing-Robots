@@ -9,7 +9,7 @@ The main features of the smaller robot are:
 - some 'components' of it made of foam
 
 ## Apperance Plans:
-- cute appearance
+- eyes made of neopixel jewels and rings
 - attachable arms (double-sided tape/magnets)
 - empty container/hole to contain things
 
@@ -17,3 +17,10 @@ The main features of the smaller robot are:
 
 ![](images/bay.jpeg)
 ![](images/cardball.jpg)
+
+## Intial Prototype:
+
+![](images/pro1.JPG)
+![](images/pro2.JPG)
+![](images/pro3.JPG)
+![](images/pro4.JPG)
