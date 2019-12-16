@@ -40,8 +40,9 @@ Servos inside body:
 The initial hands that I built used one magnet and hence, while they stuck to the servo, they did move as the weight of the hands were stronger than the slippery magnets.
 Intial hands:
 ![](images/oldhands.jpg)
+Intial robot with hands:
 ![](images/oldhand.jpg)
-Finalhands:
+Final robot with hands:
 ![](images/newhand.jpg)
 
 
