@@ -1,6 +1,6 @@
 # Manufacturing Consciousness
 ## Praggya Jeyakumar and Maxin Blinov
-### Performing Robots: IM-UH2117 Interactive Media Elective
+#### Performing Robots: IM-UH2117 Interactive Media Elective
 
 **Link to performance video:**
 ['Manufacturing Consciousness' Video](https://drive.google.com/file/d/1gbxmSE6PLL_eIsrFjue3BnJgBO-sdiqA/view?usp=sharing)
