@@ -6,6 +6,10 @@
 ['Manufacturing Consciousness' Video](https://drive.google.com/file/d/1gbxmSE6PLL_eIsrFjue3BnJgBO-sdiqA/view?usp=sharing)
 
 ### Overall project concept and description
+
+A robot building a robot. The one being built mysteriously has consiousness while the builder is following protocol.
+I will be working on this project with Max. The project requires two robots: a small one that is being 'constructed' in the play and another bigger robot that is constructing the smaller one. After meeting up to discuss the robot, we decided to split the work such that I work on the robot that gets built and Max works on the robotic arm that builds.
+
 [Inspirations, Ideas and Concepts](https://github.com/PraggyaJ/Performing-Robots/blob/master/FinalProject/Ideation/inspirations%26ideas%26concepts.md)
 
 [Entire final building process](https://github.com/PraggyaJ/Performing-Robots/blob/master/FinalProject/Building/Building_Progress.md)
