@@ -4,7 +4,7 @@
 ### New York University Abu Dhabi Fall 2019
 
 **Link to performance video:**
-[Video of 'Manufacturing Consciousness'](https://drive.google.com/file/d/1gbxmSE6PLL_eIsrFjue3BnJgBO-sdiqA/view?usp=sharing)
+['Manufacturing Consciousness' Video](https://drive.google.com/file/d/1gbxmSE6PLL_eIsrFjue3BnJgBO-sdiqA/view?usp=sharing)
 
 ## This page: Lectures
 
