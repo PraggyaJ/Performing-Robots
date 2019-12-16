@@ -16,6 +16,20 @@
 ![](images/diagram.jpg)
 
 ### List of important parts (don’t include wires, resistors, etc.)
+ - Arduino Uno
+ - Adafruit Bluefruit LE UART Friend - Bluetooth Low Energy (BLE)
+ - 2 high torque servos
+ - 1 Neopixel strip
+ - 1 16-LED Neopixel Ring
+ - 2 Neopixel jewels
+ - 1 powerbank
 ### Pictures of the electronics
+![](images/face_hard.jpg)
+![](images/servo_hard.jpg)
 ### Code (with good comments, good variable names, proper indentation, etc.)
+[Code for the small robot](https://github.com/PraggyaJ/Performing-Robots/tree/master/FinalProject/Code(robot_being_built))
 ### Discuss 3-5 problems you ran into and how you resolved them or worked around them
+#### Attachable hands
+#### Damaged eye Neopixel ring
+#### Coding for a Neopixel Jewel
+#### Performance details
