@@ -52,5 +52,15 @@ Final robot with hands:
 
 
 #### Damaged eye Neopixel ring
+I damaged one of the neopixel rings and had to build one from scratch
+
+![](images/n3.JPG)
+
+![](images/n4.JPG)
+
+![](images/n5.jpg)
+
 #### Coding for a Neopixel Jewel
+Max discovered that the Neopixel Jewel has 4 LEDs and had to be coded with RGBW not RGB.
 #### Performance details
+Small details of the performace were continously being added till last minute.
