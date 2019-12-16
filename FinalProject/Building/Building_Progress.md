@@ -2,12 +2,26 @@ The initial prototyped model had all the right aspects but not the right feature
 
 ### Neopixel Ring
 ![](images/n1.jpg)
-![](images/n2.jpg)
-![](images/n3.jpg)
+
+![](images/n2.JPG)
+
+![](images/n3.JPG)
+
 ![](images/n4.jpg)
+
 ![](images/n5.jpg)
 
 ### Conveyor Belt
+
+The conveyor belt was made out of sturdy cardboard.
+
+
 ![](images/con1.jpg)
+
+From the side:
+
 ![](images/con2.jpg)
+
+Final look:
 ![](images/con3.jpg)
+
